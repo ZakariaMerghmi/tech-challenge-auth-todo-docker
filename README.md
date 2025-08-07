@@ -7,8 +7,7 @@ A full-stack containerized application built as part of a technical challenge. I
 - ✅ A User Service (authentication + JWT)
 - ✅ A Todo Service (CRUD operations with JWT protection)
 - ✅ A minimal Frontend (React)
-- ✅ Dockerized setup with PostgreSQL
-- ✅ Unit tests for main endpoints
+- ✅ Dockerized setup with PostgreSQL- 
 
 
 ---
@@ -35,7 +34,6 @@ challenge/
 | Frontend    | React (basic setup)          |
 | Auth        | JWT                          |
 | Container   | Docker, Docker Compose       |
-| Testing     | Jest, Supertest              |
 
 ---
 
@@ -140,11 +138,12 @@ DB_DATABASE=user_db
 
 ## 📩 Contact
 
-If you have any questions, feel free to reach out to the project maintainer.
+thx for reaching out if you have qs I'm available via mail you can find it in the bio or the main README ;)
 
 ---
 
 Thank you for reviewing the project!
 ```
+
 
 
