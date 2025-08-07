@@ -23,7 +23,7 @@ challenge/
 ├── README.md
 └── node_modules
 |__ package-lock.json
-
+|__ postman_collection.json
 ---
 
 ## ⚙️ Technologies Used
@@ -146,4 +146,5 @@ If you have any questions, feel free to reach out to the project maintainer.
 
 Thank you for reviewing the project!
 ```
+
 
