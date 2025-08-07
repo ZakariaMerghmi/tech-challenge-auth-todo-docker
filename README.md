@@ -36,16 +36,5 @@ This project is a simple containerized full-stack application composed of:
 
 ---
 
-## 🧩 Project Structure
-
-```bash
-.
-├── user-service/         # Authentication service (register/login)
-├── todo-service/         # Todo CRUD API
-├── frontend/             # Simple login + todo UI
-├── docker-compose.yml    # Orchestrates the 3 services + databases
-├── README.md
-└── postman_collection.json
-
 
 
