@@ -9,7 +9,7 @@ A full-stack containerized application built as part of a technical challenge. I
 - ✅ A minimal Frontend (React)
 - ✅ Dockerized setup with PostgreSQL
 - ✅ Unit tests for main endpoints
-- ✅ Postman collection for testing
+
 
 ---
 
@@ -146,3 +146,4 @@ If you have any questions, feel free to reach out to the project maintainer.
 
 Thank you for reviewing the project!
 ```
+
