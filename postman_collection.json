@@ -1,0 +1,209 @@
+{
+	"info": {
+		"_postman_id": "5171f8c0-4556-4f6e-8e4d-b49d033e71e7",
+		"name": "challenge ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47358351",
+		"_collection_link": "https://merghmizakaria-8448928.postman.co/workspace/zakaria-merghmi's-Workspace~9076dc6d-ec75-40e0-84a8-519d1d41d69a/collection/47358351-5171f8c0-4556-4f6e-8e4d-b49d033e71e7?action=share&source=collection_link&creator=47358351"
+	},
+	"item": [
+		{
+			"name": "http://localhost:4000/login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1dWlkIjoiNzVhYWY0MjAtYmEyNi00NzA5LTk0OTAtZTNhMDdmMTUzNDE0IiwiaWF0IjoxNzU0NTk3OTY5LCJleHAiOjE3NTQ2MDE1Njl9.VlAky8T--aaPDJmWu6BcWEwZ5nOtUxMUbVnFfbiqL3A",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"challenge\"\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4001/todos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4001",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4001/todos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1dWlkIjoiNzVhYWY0MjAtYmEyNi00NzA5LTk0OTAtZTNhMDdmMTUzNDE0IiwiaWF0IjoxNzU0NTk3OTY5LCJleHAiOjE3NTQ2MDE1Njl9.VlAky8T--aaPDJmWu6BcWEwZ5nOtUxMUbVnFfbiqL3A",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"challenge\"\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4001/todos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4001",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4001/todos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1dWlkIjoiNzVhYWY0MjAtYmEyNi00NzA5LTk0OTAtZTNhMDdmMTUzNDE0IiwiaWF0IjoxNzU0NTk3OTY5LCJleHAiOjE3NTQ2MDE1Njl9.VlAky8T--aaPDJmWu6BcWEwZ5nOtUxMUbVnFfbiqL3A",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"challenge\"\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4001/todos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4001",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4001/todos/2",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1dWlkIjoiNzVhYWY0MjAtYmEyNi00NzA5LTk0OTAtZTNhMDdmMTUzNDE0IiwiaWF0IjoxNzU0NTk3OTY5LCJleHAiOjE3NTQ2MDE1Njl9.VlAky8T--aaPDJmWu6BcWEwZ5nOtUxMUbVnFfbiqL3A",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"challenge\"\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4001/todos/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4001",
+					"path": [
+						"todos",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4001/todos/2",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1dWlkIjoiNzVhYWY0MjAtYmEyNi00NzA5LTk0OTAtZTNhMDdmMTUzNDE0IiwiaWF0IjoxNzU0NTk3OTY5LCJleHAiOjE3NTQ2MDE1Njl9.VlAky8T--aaPDJmWu6BcWEwZ5nOtUxMUbVnFfbiqL3A",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"challenge\"\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4001/todos/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4001",
+					"path": [
+						"todos",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
