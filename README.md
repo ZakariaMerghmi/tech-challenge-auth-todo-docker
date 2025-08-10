@@ -8,11 +8,12 @@ This project combines secure user registration/login, protected CRUD operations,
 
 
 ## 📂 Project Structure
-challenge/
 
-├── user-service/   # Authentication service
-├── todo-service/   # Todo CRUD API
-├── todo-client/   # React frontend
+
+challenge/
+├── user-service/        # Authentication service
+├── todo-service/        # Todo CRUD API
+├── todo-client/         # React frontend
 ├── docker-compose.yml   # Orchestration file
 ├── postman_collection.json
 └── README.md
@@ -90,6 +91,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
