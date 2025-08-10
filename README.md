@@ -52,7 +52,14 @@ This app was created to:
 | Container   | Docker, Docker Compose     |
 
 ---
+---
 
+## 🚀 Live Demo & Code
+
+> 🌐 [**Live Demo**](https://tech-challenge-auth-todo-docker-em7.vercel.app/)  
+> 🔗 [**GitHub Repository**](https://github.com/ZakariaMerghmi/Dashboard-Hub)
+
+---
 ## 🧠 What I Learned
 
 - How to implement JWT authentication in Node.js  
@@ -72,6 +79,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
