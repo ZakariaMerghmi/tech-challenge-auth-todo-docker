@@ -24,7 +24,6 @@ This project combines secure user registration/login, protected CRUD operations,
 - 🎨 Frontend built with React and styled using Tailwind CSS  
 - 🐳 Fully dockerized environment with PostgreSQL databases  
 - 📝 CRUD operations for todos, protected by JWT tokens  
-- 🧪 Tested with Jest and Supertest  
 - 📁 Clean and modular code architecture  
 
 ---
@@ -73,6 +72,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
