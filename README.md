@@ -14,8 +14,6 @@ This project combines secure user registration/login, protected CRUD operations,
 ### 📝 Todo List  
 *(Add your screenshot here)*
 
-### 🔐 JWT Auth Flow  
-*(Add your screenshot here)*
 
 ---
 
@@ -75,3 +73,4 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
