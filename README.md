@@ -9,7 +9,7 @@ This project combines secure user registration/login, protected CRUD operations,
 ## 📸 Screenshots
 
 ### 🏠 Login Page  
-![Main Page Screenshot](https://github.com/user-attachments/assets/df1aebde-0fcd-40a2-8cf9-14ca16e0d209)
+![Main Page Screenshot](https://github.com/user-attachments/assets/d44f628a-6c8e-4eb0-88f4-17d2a113c307)
 
 ### 📝 Todo List  
 *(Add your screenshot here)*
@@ -73,6 +73,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
