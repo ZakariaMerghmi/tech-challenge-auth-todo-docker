@@ -56,7 +56,7 @@ This app was created to:
 ## 🚀 Live Demo & Code
 
 > 🌐 [**Live Demo**](https://tech-challenge-auth-todo-docker-em7.vercel.app/)  
-> 🔗 [**GitHub Repository**](https://github.com/ZakariaMerghmi/Dashboard-Hub)
+> 🔗 [**GitHub Repository**](https://github.com/ZakariaMerghmi/tech-challenge-auth-todo-docker)
 
 ---
 ## 🧠 What I Learned
@@ -78,6 +78,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
