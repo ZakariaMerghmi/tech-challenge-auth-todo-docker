@@ -52,7 +52,6 @@ This app was created to:
 | Container   | Docker, Docker Compose     |
 
 ---
----
 
 ## 🚀 Live Demo & Code
 
@@ -79,6 +78,7 @@ Make sure **Docker** and **Docker Compose** are installed.
 git clone https://github.com/YOUR_USERNAME/auth-todo-system.git
 cd auth-todo-system
 docker-compose up --build
+
 
 
 
