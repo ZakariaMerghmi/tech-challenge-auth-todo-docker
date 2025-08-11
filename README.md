@@ -83,8 +83,7 @@ This app was created to:
 - How to implement JWT authentication in Node.js  
 - Microservices architecture with separated concerns  
 - Managing environment variables securely  
-- React functional components with Tailwind CSS styling  
-- Writing backend tests with Jest and Supertest  
+- React functional components with Tailwind CSS styling   
 - Running multiple containers with Docker Compose  
 
 ---
